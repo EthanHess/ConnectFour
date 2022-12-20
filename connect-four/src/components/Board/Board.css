@@ -1,0 +1,7 @@
+#board {
+    display: grid;
+    grid-template-columns: repeat(7, 20vmin);
+    grid-template-rows: repeat(6, 20vmin);
+    grid-gap: 1vmin;
+    margin: 2vmin 0;
+  }
