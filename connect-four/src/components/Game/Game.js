@@ -311,9 +311,6 @@ export const Game = () => {
   }
 
   return(
-
-    //TODO define values (props passed) below, project currently breaks here
-    
     <>
     <div id="game">
       <h1>Connect Four</h1>
